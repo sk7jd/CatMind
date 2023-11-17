@@ -16,6 +16,8 @@
 		1A75997C2AFA874600362663 /* CatMind_appTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A75997B2AFA874600362663 /* CatMind_appTests.swift */; };
 		1A7599862AFA874600362663 /* CatMind_appUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7599852AFA874600362663 /* CatMind_appUITests.swift */; };
 		1A7599882AFA874600362663 /* CatMind_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7599872AFA874600362663 /* CatMind_appUITestsLaunchTests.swift */; };
+		1AA42DAF2B07679000E45228 /* Tsumetogi.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AA42DAE2B07679000E45228 /* Tsumetogi.storyboard */; };
+		1AA42DB12B07682300E45228 /* TsumetogiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA42DB02B07682300E45228 /* TsumetogiViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		1A7599812AFA874600362663 /* CatMind_appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CatMind_appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A7599852AFA874600362663 /* CatMind_appUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatMind_appUITests.swift; sourceTree = "<group>"; };
 		1A7599872AFA874600362663 /* CatMind_appUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatMind_appUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1AA42DAE2B07679000E45228 /* Tsumetogi.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Tsumetogi.storyboard; sourceTree = "<group>"; };
+		1AA42DB02B07682300E45228 /* TsumetogiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TsumetogiViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				1A7599662AFA874400362663 /* SceneDelegate.swift */,
 				1A7599682AFA874400362663 /* ViewController.swift */,
 				1A75996A2AFA874400362663 /* Main.storyboard */,
+				1AA42DAE2B07679000E45228 /* Tsumetogi.storyboard */,
+				1AA42DB02B07682300E45228 /* TsumetogiViewController.swift */,
 				1A75996D2AFA874600362663 /* Assets.xcassets */,
 				1A75996F2AFA874600362663 /* LaunchScreen.storyboard */,
 				1A7599722AFA874600362663 /* Info.plist */,
@@ -231,6 +237,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AA42DAF2B07679000E45228 /* Tsumetogi.storyboard in Resources */,
 				1A7599712AFA874600362663 /* LaunchScreen.storyboard in Resources */,
 				1A75996E2AFA874600362663 /* Assets.xcassets in Resources */,
 				1A75996C2AFA874400362663 /* Main.storyboard in Resources */,
@@ -258,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AA42DB12B07682300E45228 /* TsumetogiViewController.swift in Sources */,
 				1A7599692AFA874400362663 /* ViewController.swift in Sources */,
 				1A7599652AFA874400362663 /* AppDelegate.swift in Sources */,
 				1A7599672AFA874400362663 /* SceneDelegate.swift in Sources */,
