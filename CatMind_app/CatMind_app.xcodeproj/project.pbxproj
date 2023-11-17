@@ -18,6 +18,12 @@
 		1A7599882AFA874600362663 /* CatMind_appUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7599872AFA874600362663 /* CatMind_appUITestsLaunchTests.swift */; };
 		1AA42DAF2B07679000E45228 /* Tsumetogi.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AA42DAE2B07679000E45228 /* Tsumetogi.storyboard */; };
 		1AA42DB12B07682300E45228 /* TsumetogiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA42DB02B07682300E45228 /* TsumetogiViewController.swift */; };
+		1AA42DB22B07CE4B00E45228 /* TsumetogiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA42DB02B07682300E45228 /* TsumetogiViewController.swift */; };
+		1AA42DB32B07CE4D00E45228 /* TsumetogiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AA42DB02B07682300E45228 /* TsumetogiViewController.swift */; };
+		1AA42DB42B07D3B700E45228 /* Tsumetogi.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AA42DAE2B07679000E45228 /* Tsumetogi.storyboard */; };
+		1AA42DB52B07D3B800E45228 /* Tsumetogi.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AA42DAE2B07679000E45228 /* Tsumetogi.storyboard */; };
+		1AA42DB62B07D41F00E45228 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A75996A2AFA874400362663 /* Main.storyboard */; };
+		1AA42DB72B07D41F00E45228 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A75996A2AFA874400362663 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -248,6 +254,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AA42DB42B07D3B700E45228 /* Tsumetogi.storyboard in Resources */,
+				1AA42DB62B07D41F00E45228 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,6 +263,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AA42DB52B07D3B800E45228 /* Tsumetogi.storyboard in Resources */,
+				1AA42DB72B07D41F00E45228 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +286,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1AA42DB22B07CE4B00E45228 /* TsumetogiViewController.swift in Sources */,
 				1A75997C2AFA874600362663 /* CatMind_appTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +297,7 @@
 			files = (
 				1A7599862AFA874600362663 /* CatMind_appUITests.swift in Sources */,
 				1A7599882AFA874600362663 /* CatMind_appUITestsLaunchTests.swift in Sources */,
+				1AA42DB32B07CE4D00E45228 /* TsumetogiViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

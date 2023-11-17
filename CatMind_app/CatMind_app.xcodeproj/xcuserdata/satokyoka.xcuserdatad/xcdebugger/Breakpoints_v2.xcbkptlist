@@ -14,8 +14,8 @@
             filePath = "CatMind_app/TsumetogiViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
             landmarkName = "TsumetogiViewController"
             landmarkType = "3">
          </BreakpointContent>
@@ -30,10 +30,350 @@
             filePath = "CatMind_app/TsumetogiViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42B016B8-8502-451B-9E84-80C50802B047"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatMind_app/TsumetogiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "TsumetogiViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "42B016B8-8502-451B-9E84-80C50802B047 - d1b06497800f3a76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.button.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "42B016B8-8502-451B-9E84-80C50802B047 - fc25fcf803b94a82"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.button.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "42B016B8-8502-451B-9E84-80C50802B047 - 3ef71acb1e6949d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.button.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "42B016B8-8502-451B-9E84-80C50802B047 - 711d3a638604ee0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.button.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "42B016B8-8502-451B-9E84-80C50802B047 - ba890330194a0ad5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CatMind_app.TsumetogiViewController"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "223">
+               </Location>
+               <Location
+                  uuid = "42B016B8-8502-451B-9E84-80C50802B047 - dd52d15c5f701ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CatMind_app.TsumetogiViewController&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00B39C78-D59C-4F7D-8EE0-1E0A3F67F6B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatMind_app/TsumetogiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "TsumetogiViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "00B39C78-D59C-4F7D-8EE0-1E0A3F67F6B2 - 6617a0125fd207a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.addTextField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "00B39C78-D59C-4F7D-8EE0-1E0A3F67F6B2 - c72005a6f81473be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.addTextField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "00B39C78-D59C-4F7D-8EE0-1E0A3F67F6B2 - 55e81419ac06b74e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.addTextField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "00B39C78-D59C-4F7D-8EE0-1E0A3F67F6B2 - 2a7e950c0cf0d658"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.addTextField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "00B39C78-D59C-4F7D-8EE0-1E0A3F67F6B2 - ba890330194a0a97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CatMind_app.TsumetogiViewController"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "137">
+               </Location>
+               <Location
+                  uuid = "00B39C78-D59C-4F7D-8EE0-1E0A3F67F6B2 - dd52d15c5f701ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CatMind_app.TsumetogiViewController&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "94">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6CC924F-D383-4D8F-A314-A39FDE891714"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatMind_app/TsumetogiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "backButtonAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB87D0D4-3761-4A63-A5D4-241849C0ED65"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CatMind_app/TsumetogiViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TsumetogiViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FB87D0D4-3761-4A63-A5D4-241849C0ED65 - d95b62be67afba4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.label.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "FB87D0D4-3761-4A63-A5D4-241849C0ED65 - e1e73392d684c658"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.label.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "FB87D0D4-3761-4A63-A5D4-241849C0ED65 - f5df697161ac8cc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.label.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "FB87D0D4-3761-4A63-A5D4-241849C0ED65 - 35ecd39ab7ca002"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.label.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "FB87D0D4-3761-4A63-A5D4-241849C0ED65 - ba890330194a0af4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CatMind_app.TsumetogiViewController"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "FB87D0D4-3761-4A63-A5D4-241849C0ED65 - dd52d15c5f701ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CatMind_app.TsumetogiViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CatMind_app.TsumetogiViewController&gt;"
+                  moduleName = "CatMind_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satokyoka/Desktop/Application/CatMind/CatMind_app/CatMind_app/TsumetogiViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

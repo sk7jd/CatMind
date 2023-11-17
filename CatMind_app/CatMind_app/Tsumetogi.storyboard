@@ -49,6 +49,11 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <color key="tintColor" red="1" green="0.34974829726470325" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                     </view>
+                    <connections>
+                        <outlet property="addTextField" destination="0TW-aE-pyq" id="ouV-jX-dJi"/>
+                        <outlet property="button" destination="QRK-E3-DSn" id="qV3-P2-vkp"/>
+                        <outlet property="label" destination="zcz-iS-Ocq" id="nuu-Vl-3eP"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
