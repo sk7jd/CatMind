@@ -3,6 +3,7 @@
 //  CatMind_app
 //
 //  Created by 佐藤今日香 on 2023/11/07.
+// 椎名コメント追加しました。
 //
 
 import UIKit
