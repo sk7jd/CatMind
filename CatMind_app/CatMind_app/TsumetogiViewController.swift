@@ -7,7 +7,7 @@
 
 import UIKit
 
-class TsumetogiViewController: UIViewController {
+class TsumetogiViewController: UIViewController{
     @IBOutlet weak var addTextField: UITextField!
     @IBOutlet weak var label: UILabel!
     @IBOutlet weak var button: UIButton!
@@ -17,7 +17,7 @@ class TsumetogiViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         //extensionと繋げる
-        //addTextField.delegate = self
+        addTextField.delegate = self
         
         //起動時にボタン使えなくする
         button.isEnabled = false
@@ -39,7 +39,7 @@ class TsumetogiViewController: UIViewController {
         
         guard let keyboardMinY = keyboardFrame?.minY else{ return }
         let buttonMaxY = label.frame.maxY
-        let distance = buttonMaxY - keyboardMinY + 200  //この"200"が画面タテ方向への移動量
+        let distance = buttonMaxY - keyboardMinY + 300  //この"200"が画面タテ方向への移動量
         let transform = CGAffineTransform(translationX: 0, y: -distance)
         
         UIView.animate(withDuration: 0.5, delay: 0, usingSpringWithDamping: 1, initialSpringVelocity: 1, options: []
@@ -77,7 +77,7 @@ class TsumetogiViewController: UIViewController {
         // Homeに戻る
     }
     
-    /*
+    
     // MARK: - Navigation
 
     // In a storyboard-based application, you will often want to do a little preparation before navigation
@@ -85,10 +85,10 @@ class TsumetogiViewController: UIViewController {
         // Get the new view controller using segue.destination.
         // Pass the selected object to the new view controller.
     }
-    */
+    
 }
 //textFieldに、テキストがあるか無いかを判別してる
-/*extension ViewController: UITextFieldDelegate {
+extension TsumetogiViewController: UITextFieldDelegate {
     
     func textFieldDidChangeSelection(_ textField: UITextField) {
         let addTextFieldEmpty = addTextField.text?.isEmpty ?? true
@@ -101,5 +101,5 @@ class TsumetogiViewController: UIViewController {
             
         }
     }
-}*/
+}
 
